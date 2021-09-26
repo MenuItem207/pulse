@@ -14,3 +14,5 @@ Pulse(
     child: child,
 )
 ```
+
+You can change attributes like Colour, Duration, Delay duration, diameter etc.
