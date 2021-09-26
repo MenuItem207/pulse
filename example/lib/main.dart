@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:pulse/pulse.dart';
+import 'package:pulse_widget/pulse_widget.dart';
 
 void main() {
   runApp(const MaterialApp(home: MyApp()));
