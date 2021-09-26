@@ -1,6 +1,6 @@
 name: pulse_widget
 description: Provides a pulse animation for your widgets
-version: 0.0.1
+version: 0.0.2
 homepage: https://github.com/MenuItem207/pulse
 
 environment:
