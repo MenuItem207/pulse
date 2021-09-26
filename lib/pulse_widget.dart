@@ -1,4 +1,4 @@
-library pulse;
+library pulse_widget;
 
 import 'package:flutter/material.dart';
 
